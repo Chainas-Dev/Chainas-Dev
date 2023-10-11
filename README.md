@@ -1,5 +1,5 @@
 ### Hola que tal, soy Chainas-Dev
-Mis dos grandes hobbies son el programar y ver anime, es por ello que emprendere este nuevo proyecto donde buscare replicar una serie de juegos famosos y transformarlos a un estilo anime. El codigo sera publicado en este repositorio y videos sobre la realizacion de estos estaran en: [Youtube - Chainas-Dev](https://www.youtube.com/channel/UCWpdoxZYg19EBt00DU1qazA)
+Mis dos grandes hobbies son el programar y ver anime, es por ello que emprenderé este nuevo proyecto donde buscaré replicar una serie de juegos famosos y transformarlos a un estilo anime. El código será publicado en este repositorio y videos sobre la realización de estos estarán en: [Youtube - Chainas-Dev](https://www.youtube.com/channel/UCWpdoxZYg19EBt00DU1qazA)
 
 ### Languages
 <p align="left">
